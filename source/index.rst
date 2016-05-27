@@ -1,19 +1,12 @@
 Welcome to the DockDogs Affiliate Handbook
 ============================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Overview of DockDogs Worldwide
 
-   mission-statement
-   org-structure
-   affiliate-relationship
+  overview
 
 .. toctree::
    :maxdepth: 2
